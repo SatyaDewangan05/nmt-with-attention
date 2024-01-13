@@ -1,0 +1,2 @@
+tensorflow-text>=2.11
+einops
