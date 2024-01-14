@@ -1,1 +1,7 @@
 *.history
+dataset/*
+translator
+*__pycache__
+*__pycache__/*
+*/__pycache__
+*/__pycache__/*
